@@ -1,0 +1,21 @@
+buttons.png
+size: 450, 87
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Button
+  rotate: false
+  xy: 0, 0
+  size: 225, 87
+  split: 0, 225, 0, 87
+  orig: 225, 87
+  offset: 0, 0
+  index: -1
+Button_down
+  rotate: false
+  xy: 225, 0
+  size: 225, 87
+  split: 0, 225, 0, 87
+  orig: 225, 87
+  offset: 0, 0
+  index: -1

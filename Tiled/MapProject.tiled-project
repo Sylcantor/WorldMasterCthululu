@@ -1,0 +1,13 @@
+{
+    "automappingRulesFile": "",
+    "commands": [
+    ],
+    "extensionsPath": "../../../Downloads/extensions",
+    "folders": [
+        "../game/core/assets/Maps",
+        "../game/core/assets/Tiles"
+    ],
+    "objectTypesFile": "",
+    "propertyTypes": [
+    ]
+}
