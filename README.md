@@ -1,8 +1,8 @@
 # WorldMasterCthululu
 
 ## Description  
-
-WorldMasterCthululu est un jeu de plateforme en 2D développé en Java, utilisant la librairie libGDX.  
-Le joueur incarne un poulpe qui traverse différents niveaux remplis de défis et de monstres.  
   
-L'objectif du jeu est de compléter les niveaux en surmontant les obstacles, tout en évitant les ennemis.
+WorldMasterCthululu is a 2D platformer game developed in Java, using the libGDX library.  
+The player controls an octopus that travels through various levels filled with challenges and monsters.  
+  
+The objective of the game is to complete the levels by overcoming obstacles, while avoiding enemies.
